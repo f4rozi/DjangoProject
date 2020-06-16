@@ -1,0 +1,3 @@
+- membuat project website catalog untuk penjualan barang material bangunan
+- dimulai dengan membuat rancangan desain sistem
+- aplikasi yang digunakan adalah django
